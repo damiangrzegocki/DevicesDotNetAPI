@@ -1,2 +1,1 @@
-# DevicesDotNetApi
- 
+Dot Net API
